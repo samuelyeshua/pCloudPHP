@@ -1,0 +1,12 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "serkin/volan": "dev-master"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"pCloudPHP\\":"src/",
+    		"pCloudPHP\\Test\\": "test/"
+    	}
+    }
+}
