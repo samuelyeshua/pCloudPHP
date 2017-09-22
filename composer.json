@@ -1,4 +1,7 @@
 {
+    "name": "pCloudPHP/pCloudPHP",
+    "description": "An unofficial library for accessing and manipulating files and folders from https://www.pcloud.com storage in the cloud",
+    "version": "0.0.0",
     "require": {
         "rmccue/requests": "^1.7",
         "serkin/volan": "dev-master"
